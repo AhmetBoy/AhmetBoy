@@ -8,6 +8,8 @@ Merhaba! Ben Ahmet.<br>Ağırlıklı olarak Python, JavaScript ve TypeScript tek
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliox.infinityfreeapp.com/)
 [![Chat App](https://img.shields.io/badge/ChatApp-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chatapp.gt.tc/)
 [![8D](https://img.shields.io/badge/8D-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://8dx.gt.tc/)
+[![8D](https://img.shields.io/badge/Amazon-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amazontt-git-main-ahmetboys-projects.vercel.app/)
+
 
 
 
